@@ -10,8 +10,11 @@
     "build:ios": "cd ios && xcodebuild -workspace SkeletonImageExample.xcworkspace -scheme SkeletonImageExample -configuration Debug -sdk iphonesimulator CC=clang CPLUSPLUS=clang++ LD=clang LDPLUSPLUS=clang++ GCC_OPTIMIZATION_LEVEL=0 GCC_PRECOMPILE_PREFIX_HEADER=YES ASSETCATALOG_COMPILER_OPTIMIZATION=time DEBUG_INFORMATION_FORMAT=dwarf COMPILER_INDEX_STORE_ENABLE=NO"
   },
   "dependencies": {
+    "@react-native-masked-view/masked-view": "^0.2.9",
     "react": "18.2.0",
-    "react-native": "0.72.5"
+    "react-native": "0.72.5",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-skeleton-placeholder": "^5.2.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
