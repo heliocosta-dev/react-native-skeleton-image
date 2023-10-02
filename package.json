@@ -36,8 +36,12 @@
   },
   "keywords": [
     "react-native",
-    "ios",
-    "android"
+    "image",
+    "ui",
+    "ux",
+    "loading",
+    "placeholder",
+    "skeleton"
   ],
   "repository": "https://github.com/heliocosta-dev/react-native-skeleton-image",
   "author": "Hélio Costa <helio@heliocosta.dev> (https://github.com/heliocosta-dev)",
