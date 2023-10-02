@@ -1,6 +1,6 @@
 {
   "name": "react-native-skeleton-image",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Enhance React Native's Image component with skeleton placeholders, providing a seamless loading experience and improved user engagement during image retrieval.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
